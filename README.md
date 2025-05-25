@@ -16,7 +16,7 @@ Features a matrix rain background, glowing dashboard, real encryption tools, phi
 
 ## 🌐 Live Demo
 
-[View on GitHub Pages](https://worksbyahamed.github.io/cyber-portal/)
+[View on GitHub Pages](https://worksbyahamed.github/cyber-portal/)
 
 ## 📄 Usage
 
